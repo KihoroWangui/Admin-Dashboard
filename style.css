@@ -149,6 +149,7 @@ header {
   align-items: top;
   flex-wrap: wrap;
   gap: 10px;
+  position: flex;
 }
 .nav {
   min-height: 91vh;
