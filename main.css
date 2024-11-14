@@ -111,10 +111,11 @@ header {
   overflow: hidden;
 }
 .main-container {
-  display: flex;
+  display: fixed;
   width: 100vw;
-  position: relative;
-  top: 70px;
+  height: 200px;
+  position: absolute;
+  top: 200px;
   z-index: 1;
 }
 .dpicn {
